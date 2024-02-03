@@ -1,0 +1,30 @@
+Adição
+Subtração
+Multiplicação
+Divisão
+Potenciação
+Radiciação
+Resolução de equações lineares
+Resolução de sistemas de equações lineares
+Fatoração de expressões algébricas
+Simplificação de expressões algébricas
+Inequações
+Cálculo de área e perímetro
+Resolução de problemas envolvendo triângulos, quadrados, retângulos, círculos, etc.
+Teorema de Pitágoras
+Trigonometria básica
+Derivação de funções
+Integração definida e indefinida
+Limites e continuidade
+Séries e sequências
+Cálculo de médias (média aritmética, média ponderada, média geométrica)
+Desvio padrão
+Distribuições de probabilidade
+Teorema do limite central
+Testes de hipóteses
+Operações com números complexos
+Representação polar e cartesiana
+Tabelas verdade
+Implicações lógicas
+Álgebra de Boole
+Resolução de equações diferenciais ordinárias simples
