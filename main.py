@@ -4,7 +4,7 @@ import os
 import tiktoken
 
 load_dotenv()
-cliente = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+cliente = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 is_conected = (os.system('nc -z 8.8.8.8 53') == 0)
 
 def matematica(problema, problemas_valido, modelo):
